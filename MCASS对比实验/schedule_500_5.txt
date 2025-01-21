@@ -1,0 +1,18 @@
+调度结果(每次覆盖1时间单位):
+1, (CoverageSetID=14)
+2, (CoverageSetID=5)
+3, (CoverageSetID=2)
+4, (CoverageSetID=6)
+5, (CoverageSetID=6)
+6, (CoverageSetID=3)
+7, (CoverageSetID=1)
+8, (CoverageSetID=1)
+9, (CoverageSetID=8)
+10, (CoverageSetID=9)
+11, (CoverageSetID=9)
+12, (CoverageSetID=9)
+13, (CoverageSetID=9)
+14, (CoverageSetID=15)
+15, (CoverageSetID=4)
+16, (CoverageSetID=13)
+总共使用了 16 次覆盖集, 生命期=16
