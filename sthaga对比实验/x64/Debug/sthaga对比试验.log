@@ -1,0 +1,4 @@
+﻿  sthga对比试验.cpp
+C:\Users\ssy\Desktop\无线传感网络\sthaga对比试验\sthga对比试验.cpp(381,15): warning C4101: “k”: 未引用的局部变量
+C:\Users\ssy\Desktop\无线传感网络\sthaga对比试验\sthga对比试验.cpp(561,12): warning C4101: “v”: 未引用的局部变量
+  sthaga对比试验.vcxproj -> C:\Users\ssy\Desktop\无线传感网络\sthaga对比试验\x64\Debug\sthaga对比试验.exe
